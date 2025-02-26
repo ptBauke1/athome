@@ -1,0 +1,19 @@
+[0.701s] Invoking command in '/home/pedromatumoto/ros2_ws/src/build/motor_controller': PYTHONPATH=/home/pedromatumoto/ros2_ws/src/build/motor_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pedromatumoto/ros2_ws/src/install/motor_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/pedromatumoto/ros2_ws/src/build/motor_controller/build --no-deps symlink_data
+[0.921s] running develop
+[1.054s] running egg_info
+[1.055s] writing motor_controller.egg-info/PKG-INFO
+[1.055s] writing dependency_links to motor_controller.egg-info/dependency_links.txt
+[1.055s] writing entry points to motor_controller.egg-info/entry_points.txt
+[1.055s] writing requirements to motor_controller.egg-info/requires.txt
+[1.055s] writing top-level names to motor_controller.egg-info/top_level.txt
+[1.056s] reading manifest file 'motor_controller.egg-info/SOURCES.txt'
+[1.057s] writing manifest file 'motor_controller.egg-info/SOURCES.txt'
+[1.057s] running build_ext
+[1.058s] Creating /home/pedromatumoto/ros2_ws/src/install/motor_controller/lib/python3.10/site-packages/motor-controller.egg-link (link to .)
+[1.058s] Installing motor_controller script to /home/pedromatumoto/ros2_ws/src/install/motor_controller/lib/motor_controller
+[1.059s] 
+[1.059s] Installed /home/pedromatumoto/ros2_ws/src/build/motor_controller
+[1.059s] running symlink_data
+[1.059s] symbolically linking /home/pedromatumoto/ros2_ws/src/build/motor_controller/resource/motor_controller -> /home/pedromatumoto/ros2_ws/src/install/motor_controller/share/ament_index/resource_index/packages
+[1.059s] symbolically linking /home/pedromatumoto/ros2_ws/src/build/motor_controller/package.xml -> /home/pedromatumoto/ros2_ws/src/install/motor_controller/share/motor_controller
+[1.104s] Invoked command in '/home/pedromatumoto/ros2_ws/src/build/motor_controller' returned '0': PYTHONPATH=/home/pedromatumoto/ros2_ws/src/build/motor_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pedromatumoto/ros2_ws/src/install/motor_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/pedromatumoto/ros2_ws/src/build/motor_controller/build --no-deps symlink_data
